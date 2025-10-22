@@ -28,7 +28,7 @@
 - [Receiverbook](https://www.receiverbook.de/) online directory of OpenWebRX-class webSDRs 
 - [Łucja Zaborowska's Dipole Calculator](https://www.omnicalculator.com/physics/dipole)
 - [Kevin VE3EN's SolarHam site](https://solarham.com/)
-- [HOA Ham](https://www.youtube.com/@HOAHamRadio), Bob KD4BMG's YuTube channe for those who deal with Home Owners Associations
+- [HOA Ham](https://www.youtube.com/@HOAHamRadio), Bob KD4BMG's YouTube channel for those who deal with Home Owners Associations
 - [SDR receivers supported by OpenWebRX and variants](https://github.com/jketterl/openwebrx/wiki/Supported-Hardware#sdr-devicesblo)
 - [Perhaps It’s Time To Talk About All Those Fakes And Clones](https://hackaday.com/2022/12/05/perhaps-its-time-to-talk-about-all-those-fakes-and-clones/)
 - [What are SMA Connectors?
