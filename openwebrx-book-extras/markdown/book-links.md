@@ -1,6 +1,9 @@
 # Web Links from the Book
 
-*These are the web links mentioned in the book. If you have purchased the print edition, these should save you some typing. And if any link rot occurs, I will put corrections here.*
+These are the web links mentioned in the book, arranged by chapter. If you have purchased the print edition, these should save you some typing. And if any link rot occurs, corrections will appear here.
+
+Note that a few links are repeated here, as they appear in different chapters.
+
 
 ## Acknowledgements
 
@@ -13,11 +16,13 @@
 - [Guy Royse W8Guy](https://guy)
 - [Volodymyr Gurtovy US7IGN](https://www.us7ign.com/), author of [*War Diaries: A Radio Amateur in Kyiv*](https://www.amazon.com.au/dp/B0BLZM8H9P)
 
+
 ## Preface
 
 - [The OpenWebRX+ GitHub Repository](https://github.com/luarvique/openwebrx)
 - [*Build, Tune, Explore with OpenWebRX+* on the Pragmatic Programmers website](https://pragprog.com/book/rmwebrx)
 - [VK2SKY on GitHub](https://vk2sky.github.io/)
+
 
 ## Jump Start OpenWebRX+
 
@@ -43,6 +48,7 @@
 - ["correct horse battery staple"](https://xkcd.com/936/), the XKCD cartoon guide to password strength.
 - [OpenWebRX+ Change Log](https://github.com/luarvique/openwebrx/blob/master/CHANGELOG.md) keep up with the latest OpenWebRX+ updates
 
+
 ## Tame Your New WebSDR
 
 - [How to make OpenWebRX+ use HTTPS](https://fms.komkon.org/OWRX/#FAQ-HTTPS)
@@ -59,22 +65,44 @@
 - [Receiverbook](https://www.receiverbook.de/) directory of online OpenWebRX receivers
 - [International Telecommunication Union Regions](https://www.itu.int/en/ITU-R/information/Pages/emergency-bands.aspx)
 - [What's My Maidenhead Locator?](https://www.whatsmylocator.co.uk/)
-- [EiBi](http://eibispace.de/), Eike Bierwirth's shortwave radio schedules database
+- [Eike Bierwirth's shortwave radio schedules database](http://eibispace.de/)
 - [RepeaterBook](https://www.repeaterbook.com/) amateur radio repeater directory
-- Signal Identification Guide:
+- The Signal Identification Guide:
   - [Automatic Dependent Surveillance-Broadcast (ADS-B)](https://www.sigidwiki.com/wiki/ADS-B)
   - [Automatic Identification System (AIS)](https://www.sigidwiki.com/wiki/Automatic_Identification_System_(AIS))
 
+
 ## Surf the Waterfall
+
+- [Japanese "Letters" - Katakana](https://www3.nhk.or.jp/nhkworld/lesson/en/letters/katakana.html)
+- [The Signal Identification Guide](https://www.sigidwiki.com/)
+- [Receiverbook](https://www.receiverbook.de/) online directory of OpenWebRX-class webSDRs
+- [OpenWebRX on Telegram](https://t.me/openwebrx)
+- [RepeaterBook](https://www.repeaterbook.com/) amateur radio repeater directory
+- [Eike Bierwirth's shortwave radio schedules database](http://eibispace.de/) 
+- [FT8 on the Signal Identification Guide](https://www.sigidwiki.com/wiki/FT8)
+- [Automatic Packet Reporting System-Internet Service (APRS-IS)](https://www.aprs-is.net/)
+- [Louis Jordan - There Ain't Nobody Here but us Chickens](https://www.youtube.com/watch?v=r8RBZNWXxZE)
+- [Current Coordinated Universal Time](https://www.timeanddate.com/worldclock/timezone/utc)
 
 ## Customize OpenWebRX+
 
+
+
 ## Explore with OpenWebRX+
+
+
 
 ## Share Your Decoded Data
 
+
+
 ## Take Your WebSDR Public
 
+
+
 ## Go Above and Beyond
+
+
 
 ## Appendix 1: Crack Open the Secure SHell (SSH)
