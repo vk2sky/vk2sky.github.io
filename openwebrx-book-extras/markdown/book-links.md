@@ -27,9 +27,9 @@
 - [SDRPlay](https://www.sdrplay.com/)
 - [Receiverbook](https://www.receiverbook.de/) online directory of OpenWebRX-class webSDRs 
 - [Łucja Zaborowska's Dipole Calculator](https://www.omnicalculator.com/physics/dipole)
-- [Kevin VE3EN's SolarHam site](https://solarham.com/)
-- [HOA Ham](https://www.youtube.com/@HOAHamRadio), Bob KD4BMG's YouTube channel for those who deal with Home Owners Associations
-- [SDR receivers supported by OpenWebRX and variants](https://github.com/jketterl/openwebrx/wiki/Supported-Hardware#sdr-devicesblo)
+- [Space Weather by SolarHam site](https://solarham.com/), Kevin VE3EN's exposé of solar activity
+- [HOA Ham](https://www.youtube.com/@HOAHamRadio), Bob KD4BMG's YouTube channel for those who deal with Homeowners Associations
+- [SDR receivers that are supported by OpenWebRX and variants](https://github.com/jketterl/openwebrx/wiki/Supported-Hardware#sdr-devicesblo)
 - [Perhaps It’s Time To Talk About All Those Fakes And Clones](https://hackaday.com/2022/12/05/perhaps-its-time-to-talk-about-all-those-fakes-and-clones/)
 - [What are SMA Connectors?
   ](https://www.everythingrf.com/community/sma-connectors)
@@ -44,6 +44,21 @@
 - [OpenWebRX+ Change Log](https://github.com/luarvique/openwebrx/blob/master/CHANGELOG.md) keep up with the latest OpenWebRX+ updates
 
 ## Tame Your New WebSDR
+
+- [How to make OpenWebRX+ use HTTPS](https://fms.komkon.org/OWRX/#FAQ-HTTPS)
+- [List of publicly available KiwSDR receivers](http://kiwisdr.com/.public/)
+- [OpenWebRX community group](https://groups.io/g/openwebrx)
+- [OpenWebRX on Discord](https://discord.com/invite/gnE9hPz)
+- [About the RTL-SDR](https://www.rtl-sdr.com/about-rtl-sdr/)
+- Sydney FM Radio stations mentioned:
+  - [ABC Classic FM](https://www.abc.net.au/listen/classic)
+  - [Muslim Community Radio](https://www.2mfm.org/)
+  - [Koori Radio](https://kooriradio.com/)
+- [Radio Data System (RDS) and Radio Broadcast Data System (RBDS)](https://www.sigidwiki.com/wiki/Radio_Data_System_(RDS))
+- [NOAA Weather Radio All Hazards](https://www.weather.gov/nwr/)
+- [Receiverbook](https://www.receiverbook.de/) directory of online OpenWebRX receivers
+- [International Telecommunication Union Regions](https://www.itu.int/en/ITU-R/information/Pages/emergency-bands.aspx)
+- [What's My Maidenhead Locator?](https://www.whatsmylocator.co.uk/)
 
 ## Surf the Waterfall
 
