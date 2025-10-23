@@ -59,7 +59,7 @@
 - [Receiverbook](https://www.receiverbook.de/) directory of online OpenWebRX receivers
 - [International Telecommunication Union Regions](https://www.itu.int/en/ITU-R/information/Pages/emergency-bands.aspx)
 - [What's My Maidenhead Locator?](https://www.whatsmylocator.co.uk/)
-- [EIBI](http://eibispace.de/) radio stations database
+- [EiBi](http://eibispace.de/), Eike Bierwirth's shortwave radio schedules database
 - [RepeaterBook](https://www.repeaterbook.com/) amateur radio repeater directory
 - Signal Identification Guide:
   - [Automatic Dependent Surveillance-Broadcast (ADS-B)](https://www.sigidwiki.com/wiki/ADS-B)
