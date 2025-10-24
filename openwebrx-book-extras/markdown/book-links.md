@@ -211,3 +211,7 @@ Note that a few links are duplicated here, as they are referenced in multiple ch
 - [VK2SKY on GitHub](https://vk2sky.github.io/)
 
 ## Appendix 1: Crack Open the Secure SHell (SSH)
+
+- [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html) Windows SSH client software releases
+- [Learn SSH In 6 Minutes - Beginners Guide to SSH Tutorial](https://www.youtube.com/watch?v=v45p_kJV9i4)
+- [SSH for Beginners: The Ultimate Getting Started Guide](https://www.youtube.com/watch?v=YS5Zh7KExvE)
