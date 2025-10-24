@@ -2,7 +2,7 @@
 
 These are the web links mentioned in the book, arranged by chapter. If you have purchased the print edition, these should save you some typing. And if any link rot occurs, corrections will appear here.
 
-Note that a few links are repeated here, as they appear in different chapters.
+Note that a few links are duplicated here, as they are referenced in multiple chapters.
 
 
 ## Acknowledgements
@@ -151,7 +151,25 @@ Note that a few links are repeated here, as they appear in different chapters.
 
 ## Share Your Decoded Data
 
-
+- [APRS.fi](https://aprs.fi/), formerly known as Google Maps APRS
+- [Become a Flightradar 24 contributor](https://www.flightradar24.com/add-coverage)
+- [Host an ADS-B flight tracking receiver on SkyAware! ](https://www.flightaware.com/adsb/flightfeeder/)
+- [Ways To Join ADS-B Exchange](https://www.adsbexchange.com/ways-to-join-the-exchange/)
+- [Join the ADSB Support network](https://www.adsbsupport.com/join-our-adsb-network/)
+- [Automatic Packet Reporting System-Internet Service (APRS-IS)](https://www.aprs-is.net/)
+- [APRS.fi](https://aprs.fi/), formerly known as Google Maps APRS
+- [The APRS Tier 2 Network](https://www.aprs2.net/)
+- PSK Reporter
+  - [Main page](https://pskreporter.info/)
+  - [Signal propagation map](https://pskreporter.info/pskmap.html)
+  - [Signal propagation map, customised and centred on QF56 square](https://pskreporter.info/pskmap.html?preset&callsign=qf56&what=grid&timerange=900&hideunrec=1&blankifnone=1&hidelight=1&showsnr=1&suppressbadqrg=1&showlines=1&mapCenter=21.644918759777397,147.32969274779722,2.5056767277796568)
+- [Space Weather by SolarHam site](https://solarham.com/), Kevin VE3EN's exposé of solar activity
+- [List of Amateur Radio callsign country prefixes](https://www.qsl.net/xe2nat/prefijos.htm)
+- [WSPRnet signal propagation map](https://www.wsprnet.org/drupal/wsprnet/map)
+- [What is the Internet of Things (IoT) and how does it work?](https://studyonline.unsw.edu.au/blog/what-is-iot)
+- Message Queuing Telemetry Transport (MQTT)
+  - [MQTT: The Standard for IoT Messaging](https://mqtt.org/) 
+  - [MQTT Tutorial: An Easy Guide to Getting Started with MQTT](https://www.hivemq.com/blog/how-to-get-started-with-mqtt/)
 
 ## Take Your WebSDR Public
 
