@@ -138,7 +138,7 @@ Note that a few links are repeated here, as they appear in different chapters.
 - [ACARS Introduction](https://www.universal-radio.com/catalog/decoders/acarsweb.pdf)
 - Signal Identification Guide
   - [Aircraft Communications Addressing and Reporting System (ACARS)](https://www.sigidwiki.com/wiki/ACARS)
-  - [https://www.sigidwiki.com/wiki/Automatic_Dependent_Surveillance-Broadcast_(ADS-B)](Automatic Dependent Surveillance-Broadcast (ADS-B))
+  - [https://www.sigidwiki.com/wiki/Automatic_Dependent_Surveillance-Broadcast_(ADS-B)](https://www.sigidwiki.com/wiki/Automatic_Dependent_Surveillance-Broadcast_(ADS-B))
 - [International Civil Aviation Organization (ICAO) 24-bit Address Codes](https://www.aerotransport.org/html/ICAO_hex_decode.html)
 - [A Look At The World Of Squawk Codes And Their Meanings](https://www.youtube.com/watch?v=3BpIPDYHHls)
 - Signal Identification Guide
