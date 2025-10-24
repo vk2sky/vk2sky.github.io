@@ -87,6 +87,31 @@ Note that a few links are repeated here, as they appear in different chapters.
 
 ## Customize OpenWebRX+
 
+- [Eike Bierwirth's shortwave radio schedules database](http://eibispace.de/)
+- [radio-locator](https://radio-locator.com/) AM and FM radio station search engine
+- [Radio Garden](https://radio.garden/) uses a fun Google Earth style interface to find and listen to streaming radio stations.
+- [Family Radio Service (FRS)](https://www.fcc.gov/wireless/bureau-divisions/mobility-division/family-radio-service-frs)
+- [General Mobile Radio Service (GMRS)](https://www.fcc.gov/wireless/bureau-divisions/mobility-division/general-mobile-radio-service-gmrs)
+- [Multi-Use Radio Service (MURS)](https://www.fcc.gov/wireless/bureau-divisions/mobility-division/multi-use-radio-service-murs)
+- [The Kiwi has Landed!](https://www.mwrs.org.au/2024/03/05/the-kiwi-has-landed/), the post on my radio club's blog that led to this book.
+- [Git decentralised version control system](https://git-scm.com/)
+- [Introducing JSON](https://www.json.org/json-en.html), JavaScript Object Notation, used by OpenWebRX+
+- [jq](https://jqlang.org/), a command line utility to hunt down errors in your JSON files
+- [Everything You Want to Know about GMRS Radio](https://www.radioddity.com/blogs/all/everything-you-want-to-know-about-gmrs-radio)
+- [Multi-Use Radio Service](https://www.fcc.gov/wireless/bureau-divisions/mobility-division/multi-use-radio-service-murs)
+- [16 Right](https://16right.com/spotting/frequencies), Aviation Medias & Live Flight Tracking at Sydney Airport
+- Radio Reference
+  - [Aircraft](https://wiki.radioreference.com/index.php/Aircraft), air band and other aviation frequencies
+  - [Finding Air Traffic Frequencies](https://wiki.radioreference.com/index.php/Finding_Air_Traffic_Frequencies)
+- [Frugal Radio's "Monitoring Aviation Communications" video playlist](https://www.youtube.com/playlist?list=PLe5ZKeM2hRBILfL6peRIcETng_DLrm5Kt)
+- [International Amateur Radio Union (IARU)](https://www.iaru.org/)
+  - [Region 1](https://www.iaru-r1.org/)
+  - [Region 2](https://www.iaru-r2.org/en/)
+  - [Region 3](https://www.iaru-r3.org/)
+- [Automatic Position Reporting System (APRS)](https://www.areg.org.au/activities-old/automatic-position-reporting-system-aprs)
+- [The Nano and Pico editors](https://www.computerhope.com/unix/upico.htm)
+- [Amateur Radio on the International Space Station (ARISS) - latest status](https://www.ariss.org/current-status-of-iss-stations.html)
+- [Australian Weather Fax station VMC](https://www.bom.gov.au/marine/radio-sat/vmc-technical-guide.shtml)
 
 
 ## Explore with OpenWebRX+
