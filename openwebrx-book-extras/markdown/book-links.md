@@ -173,7 +173,18 @@ Note that a few links are duplicated here, as they are referenced in multiple ch
 
 ## Take Your WebSDR Public
 
-
+- [Duck DNS](https://www.duckdns.org/), free dynamic DNS hosted on AWS
+- [Mastering Your Wireless Router: The Ultimate Guide To Setting Up DHCP Reservations!](https://www.youtube.com/watch?v=dCAsHdRBrag)
+- [How To Forward a Port](https://portforward.com/)
+- [Beginners Guide to Port Forwarding](https://www.youtube.com/watch?v=jfSLxs40sIw)
+- [How to set up Port Forwarding on a TP-Link router](https://www.youtube.com/watch?v=2tIUts0fyFk)
+- [How to Setup Duck DNS with Raspberry Pi (EASY)](https://www.youtube.com/watch?v=z092FGtP6ME)
+- [What is reCAPTCHA?](https://developers.google.com/recaptcha)
+- [Raspberry Pi DDNS Setup Tutorial! (DuckDNS)](https://www.youtube.com/watch?v=s-66gmIHoyE)
+- [crontab guru](https://crontab.guru/)
+- Receiverbook directory of online OpenWebRX receivers
+  - [List view](https://www.receiverbook.de/) directory of online OpenWebRX receivers
+  - [Map view](https://www.receiverbook.de/map)
 
 ## Go Above and Beyond
 
