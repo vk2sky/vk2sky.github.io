@@ -188,6 +188,26 @@ Note that a few links are duplicated here, as they are referenced in multiple ch
 
 ## Go Above and Beyond
 
-
+- [OpenWebRX+ Hardware Guide](https://fms.komkon.org/OWRX/#HardwareGuide)
+- [OpenWebRX Supported SDR devices](https://github.com/jketterl/openwebrx/wiki/Supported-Hardware#sdr-devices)
+- [MBElib, IMBE, AMBE patent questions](https://forums.radioreference.com/threads/mbelib-imbe-ambe-patent-questions.437024/)
+- The Signal Identification Guide:
+  - [Digital Mobile Radio (DMR)](https://www.sigidwiki.com/wiki/Digital_Mobile_Radio_(DMR))
+  - [Digital Smart Technology for Amateur Radio (D-STAR)](https://www.sigidwiki.com/wiki/D-STAR)
+  - [Next Generation Digital Narrowband (NXDN)](https://www.sigidwiki.com/wiki/NXDN)
+  - [Yaesu System Fusion](https://www.sigidwiki.com/wiki/Yaesu_System_Fusion)
+- [ISM Bands Around the World
+  ](https://resources.altium.com/p/ism-bands-around-world)
+- [International Telecommunication Union Radio Regulations Articles, Edition of 2020](https://search.itu.int/history/HistoryDigitalCollectionDocLibrary/1.44.48.en.101.pdf)
+- [Monitor car telemetry on the German 70cm ISM band](https://youtu.be/IDbKV4-1WrI?t=1888)
+- [Hamlib: the Ham Radio Control Library](https://hamlib.github.io/)
+- [FLSuite Software By W1HKJ & Associates](https://www.w1hkj.org/), including flrig
+- [rigctl manual page](https://hamlib.sourceforge.net/html/rigctl.1.html)
+- [CI-V Reference Guide for the ICOM IC-705  transceiver](https://www.icomeurope.com/wp-content/uploads/2020/08/IC-705_ENG_CI-V_1_20200721.pdf)
+- [ICOM Instruction Manual downloads](https://www.icomjapan.com/support/manual/)
+- [Hexadecimal to Decimal Converter](https://www.binaryhexconverter.com/hex-to-decimal-converter)
+- [The OpenWebRX+ GitHub Repository](https://github.com/luarvique/openwebrx)
+- [OpenWebRX+ Plugins](https://0xaf.github.io/openwebrxplus-plugins/)
+- [VK2SKY on GitHub](https://vk2sky.github.io/)
 
 ## Appendix 1: Crack Open the Secure SHell (SSH)
