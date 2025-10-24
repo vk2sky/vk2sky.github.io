@@ -116,7 +116,38 @@ Note that a few links are repeated here, as they appear in different chapters.
 
 ## Explore with OpenWebRX+
 
-
+- [The Tragic Story Behind Morse Code](https://vocal.media/fyi/the-tragic-story-behind-the-morse-code)
+- [Synchronous Detection](https://wiki.radioreference.com/index.php/Synchronous_Detection)
+- [Jakob Ketterl DD5JFK's CSDR library on GitHub](https://github.com/jketterl/csdr)
+- [The M17 Project](https://m17project.org/)
+- [FreeDV](https://freedv.org/) Open Source HF Digital Voice for Amateur Radio
+- Signal Identification Guide
+  - [FreeDV+ (FreeDV plus Video)](https://www.sigidwiki.com/wiki/FreeDV_plus_Video)
+  - [Digital Radio Mondiale (DRM)](https://www.sigidwiki.com/wiki/DRM)
+- [The DRM Reception Project](https://www.drmrx.org/)
+- [Digital Audio Broadcasting Ensembles Worldwide](https://www.wohnort.org/dab/)
+- [Russian OFDM HDR (High Data Rate) Modem](https://www.sigidwiki.com/wiki/CIS_OFDM_HDR_Modem)
+- [Learn Morse Code with The WaveTalkers](https://courses.wavetalkers.com/p/learn-morse-code-the-basics)
+- VK2WI Morse Practice Beacon in Sydney
+  - [Beacon info](https://arnsw.org.au/html/dural_facs.html#:~:text=VK2WI%20Automated%20Morse%20Transmissions)
+  - [Listen and decode with the VK2MB KiwiSDR](http://websdr.mwrs.org.au:8073/?f=3699.00cwz10), best heard after dark in Sydney
+- [CDR CW Skimmer on GitHub](https://github.com/luarvique/csdr-cwskimmer)
+- [Aircraft Communications Addressing and Reporting System (ACARS)](https://www.sigidwiki.com/wiki/ACARS)
+- [Flightradar24](https://www.flightradar24.com/)
+- [FlightAware](https://www.flightaware.com/)
+- [ACARS Introduction](https://www.universal-radio.com/catalog/decoders/acarsweb.pdf)
+- Signal Identification Guide
+  - [Aircraft Communications Addressing and Reporting System (ACARS)](https://www.sigidwiki.com/wiki/ACARS)
+  - [https://www.sigidwiki.com/wiki/Automatic_Dependent_Surveillance-Broadcast_(ADS-B)](Automatic Dependent Surveillance-Broadcast (ADS-B))
+- [International Civil Aviation Organization (ICAO) 24-bit Address Codes](https://www.aerotransport.org/html/ICAO_hex_decode.html)
+- [A Look At The World Of Squawk Codes And Their Meanings](https://www.youtube.com/watch?v=3BpIPDYHHls)
+- Signal Identification Guide
+  - [Automatic Packet Reporting System (APRS)](https://www.sigidwiki.com/wiki/APRS)
+  - [Packet Radio](https://www.sigidwiki.com/wiki/PACKET)
+- [APRS.fi](https://aprs.fi/), formerly known as Google Maps APRS
+- [PSK Reporter signal propagation map](https://pskreporter.info/pskmap.html)
+- [WSPR and the Search for MH370](https://www.mh370search.com/category/wspr/)
+- Amateur radio station VK2VMP on board destroyer HMAS Vampire, as listed on [QRZCQ](https://www.qrzcq.com/call/VK2VMP) and [QRZ](https://www.qrz.com/db/VK2VMP)
 
 ## Share Your Decoded Data
 
