@@ -51,12 +51,17 @@ Raspberry Pi Imager lets us define only one Wi-Fi access point. The old "wpa_sup
 
 - XKCD on password strength: https://xkcd.com/936/
 
+## Shortwave Listening
+
+- [HF Underground](https://www.hfunderground.com/)
+- [Shortwave Info](https://short-wave.info/)
+
 ## Antennas and Propagation
 
 - [from Electronics Notes](https://www.electronics-notes.com/articles/antennas-propagation/)
 - [Using the RTL-SDR Dipole Kit For Receiving Weather Satellites](https://www.youtube.com/watch?v=idujPudqh9E)
 
-## ADS-B
+## Automatic Dependent Surveillance - Broadcast
 
 - [Weather Model based on ADS-B](https://obrhubr.org/adsb-weather-model)
 - [A Collection of Mode S and ADS-B Tools and Resources](https://mode-s.org/)
